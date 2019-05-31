@@ -1,0 +1,16 @@
+PODS:
+  - ZWAlertController (0.1.2)
+
+DEPENDENCIES:
+  - ZWAlertController
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ZWAlertController
+
+SPEC CHECKSUMS:
+  ZWAlertController: 61a8a7d1f3ed5495ea344db0b4171b05cf3eaac3
+
+PODFILE CHECKSUM: a9c8510fbe423a66cc9b04afe1fd44d76aba9360
+
+COCOAPODS: 1.5.3

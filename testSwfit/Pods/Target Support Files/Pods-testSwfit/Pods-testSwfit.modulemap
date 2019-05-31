@@ -1,0 +1,6 @@
+framework module Pods_testSwfit {
+  umbrella header "Pods-testSwfit-umbrella.h"
+
+  export *
+  module * { export * }
+}
