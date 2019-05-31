@@ -1,10 +1,10 @@
 # FC_DownMenu
-#### 自定义下拉菜单
+#### 自定义下拉菜单，支持一个或多个菜单(未实现标题栏滑动，建议不要超过6个，可自行调整）可自定义调整UI
 
 #### 效果
-<img src="https://github.com/wateringFc/FC_DownMenu/blob/master/images/11.png" width="300" height="650" alt="png">
-<img src="https://github.com/wateringFc/FC_DownMenu/blob/master/images/22.png" width="300" height="650" alt="png">
-<img src="https://github.com/wateringFc/FC_DownMenu/blob/master/images/33.png" width="300" height="650" alt="png">
+<img src="https://github.com/wateringFc/FC_DownMenu/blob/master/images/11.png" width="200" height="433" alt="png">
+<img src="https://github.com/wateringFc/FC_DownMenu/blob/master/images/22.png" width="200" height="433" alt="png">
+<img src="https://github.com/wateringFc/FC_DownMenu/blob/master/images/33.png" width="200" height="433" alt="png">
 
 #### 使用
 ```
